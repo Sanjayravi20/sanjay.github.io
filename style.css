@@ -104,8 +104,9 @@ footer {
   margin-bottom: 20px;
 
   /* FIX ROTATION */
-  transform: rotate(360deg);
+  transform: rotate(270deg);
 }
+
 
 
 
